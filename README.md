@@ -93,6 +93,7 @@ Borderline works are included when the VLM/MLLM is used as an agentic decision-m
 * [2025] SD-OVON: A Semantics-aware Dataset and Benchmark Generation Pipeline for Open-Vocabulary Object Navigation in Dynamic Scenes [[paper](https://arxiv.org/pdf/2505.18881)]
 * [2025] ManipBench: Benchmarking Vision-Language Models for Low-Level Robot Manipulation [[paper](https://arxiv.org/pdf/2505.09698)] [[project](https://manipbench.github.io/)]
 * [2025] EmbodiedBench: Comprehensive Benchmarking Multi-modal Large Language Models for Vision-Driven Embodied Agents [[paper](https://arxiv.org/pdf/2502.09560)] [[project](https://embodiedbench.github.io/)] [[code](https://github.com/EmbodiedBench/EmbodiedBench)]
+* [2024] PARTNR: A Benchmark for Planning and Reasoning in Embodied Multi-agent Tasks [[paper](https://arxiv.org/pdf/2411.00081)] [[project](https://aihabitat.org/partnr/)]
 * [2024] ET-Plan-Bench: Embodied Task-level Planning Benchmark Towards Spatial-Temporal Cognition with Foundation Models [[paper](https://arxiv.org/pdf/2410.14682)]
 * [2024] HM3D-OVON: A Dataset and Benchmark for Open-Vocabulary Object Goal Navigation [[paper](https://arxiv.org/pdf/2409.14296)] [[project](https://naoki.io/ovon)]
 * [2024] EmbSpatial-Bench: Benchmarking Spatial Understanding for Embodied Tasks with Large Vision-Language Models [[paper](https://arxiv.org/pdf/2406.05756)]
@@ -100,6 +101,8 @@ Borderline works are included when the VLM/MLLM is used as an agentic decision-m
 * [2022] Instance-Specific Image Goal Navigation: Training Embodied Agents to Find Object Instances [[paper](https://arxiv.org/pdf/2211.15876)]
 * [2020] Room-Across-Room: Multilingual Vision-and-Language Navigation with Dense Spatiotemporal Grounding [[paper](https://arxiv.org/pdf/2010.07954)]
 * [2020] ObjectNav Revisited: On Evaluation of Embodied Agents Navigating to Objects [[paper](https://arxiv.org/pdf/2006.13171)]
+* [2020] Beyond the Nav-Graph: Vision-and-Language Navigation in Continuous Environments [[paper](https://arxiv.org/pdf/2004.02857)]
+* [2017] Vision-and-Language Navigation: Interpreting visually-grounded navigation instructions in real environments [[paper](https://arxiv.org/pdf/1711.07280)]
 
 ## Agent System
 
@@ -150,6 +153,7 @@ Borderline works are included when the VLM/MLLM is used as an agentic decision-m
 * [2024] Embodied-RAG: General Non-parametric Embodied Memory for Retrieval and Generation [[paper](https://arxiv.org/pdf/2409.18313)]
 * [2024] KARMA: Augmenting Embodied AI Agents with Long-and-short Term Memory Systems [[paper](https://arxiv.org/pdf/2409.14908)] [[code](https://github.com/WZX0Swarm0Robotics/KARMA/tree/master)]
 * [2024] ReMEmbR: Building and Reasoning Over Long-Horizon Spatio-Temporal Memory for Robot Navigation [[paper](https://arxiv.org/pdf/2409.13682)] [[code](https://github.com/NVIDIA-AI-IOT/remembr)]
+* [2024] HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models [[paper](https://arxiv.org/pdf/2405.14831)] [[code](https://github.com/OSU-NLP-Group/HippoRAG)]
 * [2024] Hierarchical Open-Vocabulary 3D Scene Graphs for Language-Grounded Robot Navigation [[paper](https://arxiv.org/pdf/2403.17846)] [[project](https://hovsg.github.io/)] [[code](https://github.com/hovsg/HOV-SG)]
 * [2024] ConceptGraphs: Open-Vocabulary 3D Scene Graphs for Perception and Planning [[paper](https://arxiv.org/pdf/2309.16650)] [[project](https://concept-graphs.github.io/)] [[code](https://github.com/concept-graphs/concept-graphs)]
 * [2023] ConceptFusion: Open-set Multimodal 3D Mapping [[paper](https://arxiv.org/pdf/2302.07241)] [[project](https://concept-fusion.github.io/)]
@@ -208,7 +212,9 @@ Borderline works are included when the VLM/MLLM is used as an agentic decision-m
 * [2025] MUVLA: Learning to Explore Object Navigation via Map Understanding [[paper](https://arxiv.org/pdf/2509.25966)]
 * [2025] VLN-Zero: Rapid Exploration and Cache-Enabled Neurosymbolic Vision-Language Planning for Zero-Shot Transfer in Robot Navigation [[paper](https://arxiv.org/pdf/2509.18592)]
 * [2025] StreamVLN: Streaming Vision-and-Language Navigation via SlowFast Context Modeling [[paper](https://arxiv.org/pdf/2507.05240)] [[project](https://streamvln.github.io/)]
+* [2024] DynaMem: Online Dynamic Spatio-Semantic Memory for Open World Mobile Manipulation [[paper](https://arxiv.org/pdf/2411.04999)] [[project](https://dynamem.github.io/)]
 * [2024] Navigation with VLM framework: Go to Any Language [[paper](https://arxiv.org/pdf/2410.02787)]
+* [2024] Open-Nav: Exploring Zero-Shot Vision-and-Language Navigation in Continuous Environment with Open-Source LLMs [[paper](https://arxiv.org/pdf/2409.18794)] [[project](https://sites.google.com/view/opennav)]
 * [2024] NavGPT-2: Unleashing Navigational Reasoning Capability for Large Vision-Language Models [[paper](https://arxiv.org/pdf/2407.12366)]
 * [2024] NaVid: Video-based VLM Plans the Next Step for Vision-and-Language Navigation [[paper](https://arxiv.org/pdf/2402.15852)]
 * [2024] MapGPT: Map-Guided Prompting with Adaptive Path Planning for Vision-and-Language Navigation [[paper](https://arxiv.org/pdf/2401.07314)] [[code](https://github.com/chen-judge/MapGPT)]
