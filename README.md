@@ -97,6 +97,7 @@ Borderline works are included when the VLM/MLLM is used as an agentic decision-m
 * [2024] HM3D-OVON: A Dataset and Benchmark for Open-Vocabulary Object Goal Navigation [[paper](https://arxiv.org/pdf/2409.14296)] [[project](https://naoki.io/ovon)]
 * [2024] EmbSpatial-Bench: Benchmarking Spatial Understanding for Embodied Tasks with Large Vision-Language Models [[paper](https://arxiv.org/pdf/2406.05756)]
 * [2024] GOAT-Bench: A Benchmark for Multi-Modal Lifelong Navigation [[paper](https://arxiv.org/pdf/2404.06609)] [[project](https://mukulkhanna.github.io/goat-bench/)]
+* [2022] Instance-Specific Image Goal Navigation: Training Embodied Agents to Find Object Instances [[paper](https://arxiv.org/pdf/2211.15876)]
 * [2020] Room-Across-Room: Multilingual Vision-and-Language Navigation with Dense Spatiotemporal Grounding [[paper](https://arxiv.org/pdf/2010.07954)]
 * [2020] ObjectNav Revisited: On Evaluation of Embodied Agents Navigating to Objects [[paper](https://arxiv.org/pdf/2006.13171)]
 
@@ -250,10 +251,14 @@ Borderline works are included when the VLM/MLLM is used as an agentic decision-m
 ## Related Lists
 
 * Awesome Embodied VLA/VA/VLN [[repo](https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln)]
+* Awesome Embodied AI [[repo](https://github.com/wadeKeith/Awesome-Embodied-AI)]
+* Awesome Embodied AI [[repo](https://github.com/haoranD/Awesome-Embodied-AI)]
 * Awesome Embodied Robotics and Agent [[repo](https://github.com/zchoi/Awesome-Embodied-Robotics-and-Agent)]
+* Awesome Embodied Vision [[repo](https://github.com/ChanganVR/awesome-embodied-vision)]
+* Awesome Vision-and-Language Navigation [[repo](https://github.com/eric-ai-lab/awesome-vision-language-navigation)]
 * Awesome-Agentic-MLLMs [[repo](https://github.com/HJYao00/Awesome-Agentic-MLLMs)]
 * Awesome-Robotics-Foundation-Models [[repo](https://github.com/robotics-survey/Awesome-Robotics-Foundation-Models)]
-* Awesome World Models [[repo](https://github.com/knightnemo/Awesome-World-Models)]
+* Awesome 3D Scene Representation for Robotics [[repo](https://github.com/dtc111111/awesome-3dgs-for-robotics)]
 
 <!-- ## Contributing
 
