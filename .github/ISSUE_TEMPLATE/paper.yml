@@ -1,0 +1,53 @@
+name: Suggest a paper
+description: Suggest a paper, benchmark, dataset, simulator, or related resource.
+title: "[Paper] "
+labels:
+  - paper
+body:
+  - type: input
+    id: title
+    attributes:
+      label: Title
+      description: Full paper or resource title.
+      placeholder: "3D-Mem: 3D Scene Memory for Embodied Exploration and Reasoning"
+    validations:
+      required: true
+  - type: input
+    id: paper
+    attributes:
+      label: Paper link
+      description: Prefer arXiv, OpenReview, ACL Anthology, CVF, publisher, or official project links.
+      placeholder: "https://arxiv.org/abs/..."
+  - type: input
+    id: code
+    attributes:
+      label: Code link
+      placeholder: "https://github.com/..."
+  - type: dropdown
+    id: category
+    attributes:
+      label: Best category
+      options:
+        - Surveys and Position Papers
+        - Benchmarks and Evaluation
+        - Embodied Memory
+        - Embodied Reasoning and Planning
+        - Embodied Exploration
+        - Embodied Navigation Agents
+        - Embodied Question Answering
+        - Manipulation Agents
+        - Multi-Agent Embodied Systems
+        - Simulators and Environments
+        - Datasets
+        - Related but Out of Scope
+    validations:
+      required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: Why does it fit?
+      description: Explain the embodied-agent contribution, especially the role of VLMs or MLLMs.
+      placeholder: "The system uses an MLLM as a memory controller for embodied exploration."
+    validations:
+      required: true
+

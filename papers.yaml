@@ -1,0 +1,364 @@
+# Structured metadata for Awesome Embodied Agents.
+# Entries should be sorted by category, then by year in descending order.
+
+- title: "RoboMemArena: A Comprehensive and Challenging Robotic Memory Benchmark"
+  year: 2026
+  authors: "Lei et al."
+  category: "Benchmark"
+  tags:
+    - benchmark
+    - robotic memory
+    - evaluation
+  task:
+    - evaluation
+  links:
+    paper: "https://arxiv.org/pdf/2605.10921"
+    code: ""
+    project: "https://robomemarena.github.io/"
+  note: "Evaluates memory-centered robotic agents and systems with long-horizon memory-dependent tasks."
+  include_reason: "Benchmark for robotic memory in embodied settings."
+
+- title: "RoboMME: Benchmarking and Understanding Memory for Robotic Generalist Policies"
+  year: 2026
+  authors: "Dai et al."
+  category: "Benchmark"
+  tags:
+    - benchmark
+    - memory
+    - robotic generalists
+  task:
+    - evaluation
+  links:
+    paper: "https://arxiv.org/pdf/2603.04639"
+    code: "https://github.com/RoboMME/robomme_benchmark"
+    project: "https://robomme.github.io/"
+  note: "Studies memory behavior in robotic generalist policies and memory-augmented VLA variants."
+  include_reason: "Related benchmark for memory in robotic generalist systems."
+
+- title: "RMBench: Memory-Dependent Robotic Manipulation Benchmark with Insights into Policy Design"
+  year: 2026
+  authors: "Chen et al."
+  category: "Benchmark"
+  tags:
+    - benchmark
+    - memory
+    - manipulation
+  task:
+    - robotic manipulation
+    - evaluation
+  links:
+    paper: "https://arxiv.org/pdf/2603.01229"
+    code: ""
+    project: "https://rmbench.github.io/"
+  note: "Benchmarks memory-dependent robotic manipulation and analyzes memory-oriented policy design."
+  include_reason: "Evaluates memory dependence in embodied manipulation."
+
+- title: "FindingDory: A Benchmark to Evaluate Memory in Embodied Agents"
+  year: 2025
+  authors: "Yadav et al."
+  category: "Benchmark"
+  tags:
+    - benchmark
+    - memory
+    - embodied agents
+  task:
+    - evaluation
+  links:
+    paper: "https://arxiv.org/pdf/2506.15635"
+    code: ""
+    project: "https://findingdory-benchmark.github.io/"
+  note: "Evaluates long-range memory capabilities in VLM-based embodied agents."
+  include_reason: "Benchmark specifically targets embodied agent memory."
+
+- title: "BrainMem: Brain-Inspired Evolving Memory for Embodied Agent Task Planning"
+  year: 2026
+  authors: "Ma et al."
+  category: "Memory"
+  tags:
+    - brain-inspired memory
+    - task planning
+    - evolving memory
+  task:
+    - embodied task planning
+  links:
+    paper: "https://arxiv.org/pdf/2604.16331"
+    code: ""
+    project: ""
+  note: "Explores evolving working, episodic, and semantic memory for embodied task planning."
+  include_reason: "Uses memory for embodied agent planning."
+
+- title: "EmbodiedLGR: Integrating Lightweight Graph Representation and Retrieval for Semantic-Spatial Memory in Robotic Agents"
+  year: 2026
+  authors: "Riva et al."
+  category: "Memory"
+  tags:
+    - graph memory
+    - retrieval
+    - semantic-spatial memory
+  task:
+    - embodied reasoning
+    - robotic agents
+  links:
+    paper: "https://arxiv.org/pdf/2604.18271"
+    code: ""
+    project: ""
+  note: "Combines lightweight graph representation and retrieval for semantic-spatial memory in VLM-driven robotic agents."
+  include_reason: "Focuses on semantic-spatial memory for robotic agents."
+
+- title: "PhysMem: Scaling Test-Time Memory for Embodied Physical Reasoning"
+  year: 2026
+  authors: "Li et al."
+  category: "Memory"
+  tags:
+    - test-time memory
+    - physical reasoning
+    - embodied agents
+  task:
+    - physical reasoning
+  links:
+    paper: "https://arxiv.org/pdf/2602.20323"
+    code: ""
+    project: ""
+  note: "Studies test-time memory for VLM robot planners that learn physical principles through interaction."
+  include_reason: "Memory is used to improve embodied physical reasoning."
+
+- title: "MemCtrl: Using MLLMs as Active Memory Controllers on Embodied Agents"
+  year: 2026
+  authors: "Dorbala and Manocha"
+  category: "Memory"
+  tags:
+    - memory controller
+    - MLLM
+    - embodied agents
+  task:
+    - memory control
+  links:
+    paper: "https://arxiv.org/pdf/2601.20831"
+    code: ""
+    project: ""
+  note: "Uses MLLMs as active controllers over embodied memory."
+  include_reason: "Uses an MLLM as an agentic memory controller."
+
+- title: "Planning with an Embodied Learnable Memory"
+  year: 2026
+  authors: "Parashar et al."
+  category: "Memory"
+  tags:
+    - learnable memory
+    - planning
+    - embodied agents
+  task:
+    - embodied planning
+  links:
+    paper: "https://openreview.net/pdf?id=79BOATBal9"
+    code: ""
+    project: ""
+  note: "Studies learnable memory for long-horizon embodied planning in dynamic indoor environments."
+  include_reason: "Explicitly connects learnable memory and embodied planning."
+
+- title: "MomaGraph: State-Aware Unified Scene Graphs with Vision-Language Model for Embodied Task Planning"
+  year: 2025
+  authors: "Ju et al."
+  category: "Memory"
+  tags:
+    - scene graph
+    - VLM
+    - task planning
+  task:
+    - embodied task planning
+  links:
+    paper: "https://arxiv.org/pdf/2512.16909"
+    code: ""
+    project: ""
+  note: "Uses state-aware scene graphs with VLMs for embodied task planning."
+  include_reason: "Combines VLM reasoning with scene-graph memory for planning."
+
+- title: "Seeing, Listening, Remembering, and Reasoning: A Multimodal Agent with Long-Term Memory"
+  year: 2025
+  authors: "Long et al."
+  category: "Memory"
+  tags:
+    - multimodal agent
+    - long-term memory
+    - reasoning
+  task:
+    - multimodal reasoning
+  links:
+    paper: "https://arxiv.org/pdf/2508.09736"
+    code: "https://github.com/bytedance-seed/m3-agent"
+    project: ""
+  note: "Builds a multimodal agent with long-term memory across visual and auditory perception streams."
+  include_reason: "Long-term memory is central to the multimodal agent."
+
+- title: "RoboMemory: A Brain-inspired Multi-memory Agentic Framework for Lifelong Learning in Physical Embodied Systems"
+  year: 2025
+  authors: "Lei et al."
+  category: "Memory"
+  tags:
+    - multi-memory
+    - agentic framework
+    - interactive learning
+  task:
+    - interactive environmental learning
+  links:
+    paper: "https://arxiv.org/pdf/2508.01415"
+    code: ""
+    project: ""
+  note: "Proposes a multi-memory framework for lifelong learning in physical embodied systems."
+  include_reason: "Agentic multi-memory framework for physical embodied systems."
+
+- title: "3DLLM-Mem: Long-Term Spatial-Temporal Memory for Embodied 3D Large Language Model"
+  year: 2025
+  authors: "Hu et al."
+  category: "Memory"
+  tags:
+    - long-term memory
+    - spatial-temporal memory
+    - 3D LLM
+  task:
+    - embodied reasoning
+  links:
+    paper: "https://arxiv.org/pdf/2505.22657"
+    code: ""
+    project: "https://3dllm-mem.github.io/"
+  note: "Introduces long-term spatial-temporal memory for embodied 3D language models."
+  include_reason: "Focuses on memory as an embodied agent capability."
+
+- title: "3D-Mem: 3D Scene Memory for Embodied Exploration and Reasoning"
+  year: 2025
+  authors: "Yang et al."
+  category: "Memory"
+  tags:
+    - memory
+    - 3D scene
+    - exploration
+    - reasoning
+  task:
+    - embodied exploration
+    - embodied reasoning
+  links:
+    paper: "https://arxiv.org/pdf/2411.17735"
+    code: "https://github.com/UMass-Embodied-AGI/3D-Mem"
+    project: "https://umass-embodied-agi.github.io/3D-Mem/"
+  note: "Builds a 3D scene memory to support embodied exploration and reasoning."
+  include_reason: "Explicit memory component for embodied exploration and reasoning."
+
+- title: "Embodied-RAG: General Non-parametric Embodied Memory for Retrieval and Generation"
+  year: 2024
+  authors: "Xie et al."
+  category: "Memory"
+  tags:
+    - embodied RAG
+    - retrieval
+    - memory
+  task:
+    - retrieval-augmented reasoning
+  links:
+    paper: "https://arxiv.org/pdf/2409.18313"
+    code: ""
+    project: ""
+  note: "Frames embodied memory as a non-parametric retrieval-and-generation component."
+  include_reason: "Directly targets retrieval memory for embodied agents."
+
+- title: "Code as Policies: Language Model Programs for Embodied Control"
+  year: 2022
+  authors: "Liang et al."
+  category: "Reasoning & Planning"
+  tags:
+    - planning
+    - code generation
+    - embodied control
+  task:
+    - embodied planning
+    - embodied control
+  links:
+    paper: "https://arxiv.org/pdf/2209.07753"
+    code: ""
+    project: "https://code-as-policies.github.io/"
+  note: "Uses code generated by language models as high-level embodied policies."
+  include_reason: "Classic language-model planning work for embodied control."
+
+- title: "Inner Monologue: Embodied Reasoning through Planning with Language Models"
+  year: 2022
+  authors: "Huang et al."
+  category: "Reasoning & Planning"
+  tags:
+    - reasoning
+    - planning
+    - feedback
+  task:
+    - embodied planning
+  links:
+    paper: "https://arxiv.org/pdf/2207.05608"
+    code: ""
+    project: "https://innermonologue.github.io/"
+  note: "Uses language feedback loops for embodied planning and correction."
+  include_reason: "Classic embodied planning work with language-model feedback."
+
+- title: "SayCan: Do As I Can, Not As I Say: Grounding Language in Robotic Affordances"
+  year: 2022
+  authors: "Ahn et al."
+  category: "Reasoning & Planning"
+  tags:
+    - planning
+    - affordance
+    - robotics
+  task:
+    - embodied planning
+  links:
+    paper: "https://arxiv.org/pdf/2204.01691"
+    code: ""
+    project: "https://say-can.github.io/"
+  note: "Grounds language-model planning in robot affordances."
+  include_reason: "Classic language-model planning work grounded in embodied affordances."
+
+- title: "MerNav: A Highly Generalizable Memory-Execute-Review Framework for Zero-Shot Object Goal Navigation"
+  year: 2026
+  authors: "Qi et al."
+  category: "Navigation"
+  tags:
+    - memory
+    - object navigation
+    - zero-shot
+  task:
+    - object-goal navigation
+  links:
+    paper: "https://arxiv.org/pdf/2602.05467"
+    code: ""
+    project: "https://qidekang.github.io/MerNav.github.io/"
+  note: "Uses a memory-execute-review loop for zero-shot object-goal navigation."
+  include_reason: "Agentic navigation framework with explicit memory and review."
+
+- title: "MSGNav: Unleashing the Power of Multi-modal 3D Scene Graph for Zero-Shot Embodied Navigation"
+  year: 2025
+  authors: "Huang et al."
+  category: "Navigation"
+  tags:
+    - 3D scene graph
+    - navigation
+    - zero-shot
+  task:
+    - embodied navigation
+  links:
+    paper: "https://arxiv.org/pdf/2511.10376"
+    code: ""
+    project: ""
+  note: "Uses multimodal 3D scene graphs for zero-shot embodied navigation."
+  include_reason: "Scene memory supports agentic navigation."
+
+- title: "Memory-Centric Embodied Question Answering"
+  year: 2025
+  authors: "Zhai et al."
+  category: "EQA"
+  tags:
+    - memory
+    - EQA
+    - question answering
+  task:
+    - embodied question answering
+  links:
+    paper: "https://arxiv.org/pdf/2505.13948"
+    code: ""
+    project: ""
+  note: "Centers embodied question answering around memory construction and use."
+  include_reason: "EQA work where memory is the core agent capability."
