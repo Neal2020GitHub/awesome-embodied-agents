@@ -75,6 +75,8 @@ Borderline works are included when the VLM/MLLM is used as an agentic decision-m
 
 ## Benchmark
 
+* [2026] EmbodiedMemory-Bench: Benchmarking Embodied Memory for Long-Horizon Embodied Tasks [[paper](https://arxiv.org/abs/2609.28236)] [[project](https://zju-omniai.github.io/Embodied-Omni/EmbodiedMemoryBench/)] [[code](https://github.com/ZJU-OmniAI/Embodied-Omni/tree/main/embodied_memory)] [[data](https://huggingface.co/datasets/lzLiang/EmbodiedMemoryBench)]
+
 * [2026] ESI-Bench: Towards Embodied Spatial Intelligence that Closes the Perception-Action Loop [[paper](https://arxiv.org/pdf/2605.18746)] [[project](https://esi-bench.github.io/)]
 * [2026] RoboMemArena: A Comprehensive and Challenging Robotic Memory Benchmark [[paper](https://arxiv.org/pdf/2605.10921)] [[project](https://robomemarena.github.io/)]
 * [2026] Done, But Not Sure: Disentangling World Completion from Self-Termination in Embodied Agents [[paper](https://arxiv.org/pdf/2605.08747)]
